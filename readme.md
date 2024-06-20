@@ -1,40 +1,59 @@
-<h2 align="left">Hi 👋!  My name is Swati Shrivastav, I'm a Cloud DevOps Engineer.</h2>
+<p align="center">
+  <img src="https://via.placeholder.com/1200x200.png/003366/FFFFFF?text=Welcome+to+Swati+Shrivastav's+GitHub+Profile" alt="Header Image" />
+</p>
 
-###
+<h1 align="center">Hi there, I'm Swati Shrivastav! 👋</h1>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue" alt="DevOps Engineer" />
+  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=social" alt="GitHub Stars" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+## About Me
 
-###
+I'm a passionate DevOps Engineer with a strong background in cloud computing, automation, and continuous integration/continuous deployment (CI/CD). I love working with modern technologies to improve and streamline development processes.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Skills
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-OS-blue?logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Shell-Scripting-green?logo=gnu-bash" alt="Shell" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-blue?logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?logo=docker" alt="Docker" />
+</p>
+
+## Projects
+
+### Project 1: AWS Infrastructure Automation
+- Automated the deployment of a web application using AWS CloudFormation and Terraform.
+- Set up CI/CD pipelines in Jenkins to deploy updates automatically.
+
+### Project 2: Kubernetes Cluster Management
+- Deployed and managed a Kubernetes cluster to orchestrate Docker containers.
+- Implemented Helm for managing Kubernetes applications.
+
+### Project 3: CI/CD Pipeline
+- Created a robust CI/CD pipeline using Jenkins, Docker, and Kubernetes.
+- Integrated testing and security checks to ensure code quality and security compliance.
+
+## Contact Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x200.png/003366/FFFFFF?text=Thank+You+for+visiting!" alt="Footer Image" />
+</p>
+
+---
+
+⭐️ From [Swati Shrivastav](https://github.com/your-username)
